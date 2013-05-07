@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\aggregator\Plugin\block\block\AggregatorCategoryBlock.
+ * Contains \Drupal\aggregator\Plugin\Block\AggregatorCategoryBlock.
  */
 
-namespace Drupal\aggregator\Plugin\block\block;
+namespace Drupal\aggregator\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
